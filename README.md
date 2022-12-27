@@ -1,5 +1,5 @@
 <h3>👋 Hi, my name is Isadora, welcome to my profile!</h3>
-C# developer from Brazil
+I'm a brazilian C# developer 
 <h4>Languages and Tools</h4>
 <p float="left">
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
