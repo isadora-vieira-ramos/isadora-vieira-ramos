@@ -12,11 +12,11 @@ I'm a brazilian C# developer and a Biomedical Informatics student.
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 </p>   
-<h4>Learning</h4>
-<p float="left">
+<!--<p float="left">
+  <h4>Learning</h4>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-</p>
+</p>-->
 
 <a href="">
  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=isadora-vieira-ramos&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" />
